@@ -1,0 +1,9 @@
+*.txt
+/dataset/*
+/record/
+*.pt
+data/__pycache__/
+models/__pycache__/
+visualization/__pycache__/*.pyc
+tiny-overfit-model.pt
+fuse-model.pt
